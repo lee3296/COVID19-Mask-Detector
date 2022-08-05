@@ -5,10 +5,10 @@ Computer Vision AI built with Keras and Tensorflow to detect masks in images and
 #IMPORTANT:
 To test this, you need the following packages installed:
   - NumPy
-  -OpenCV
-  -Tensorflow
-  -Keras
-  -mathplotlib
+  - OpenCV
+  - Tensorflow
+  - Keras
+  - mathplotlib
 If it still doesn't work, check the .py files and see what imports are not on this list
 
 ---------------------------------------------------------------------------------------------
