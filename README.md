@@ -9,7 +9,7 @@ To test this, you need the following packages installed:
   - Tensorflow
   - Keras
   - mathplotlib
-If it still doesn't work, check the .py files and see what imports are not on this list
+  - If it still doesn't work, check the .py files and see what imports are not on this list
 
 ---------------------------------------------------------------------------------------------
 
